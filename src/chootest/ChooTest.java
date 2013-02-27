@@ -9,5 +9,8 @@ package chootest;
  * @author phenomics
  */
 public class ChooTest {
-    
+    public static void main (String[] args) throws Exception{
+        
+        
+    }
 }
