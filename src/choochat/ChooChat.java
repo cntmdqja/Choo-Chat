@@ -9,5 +9,10 @@ package choochat;
  * @author phenomics
  */
 public class ChooChat {
+    public static void main(String[] args)
+    {
+        
+    }
     
+            
 }
